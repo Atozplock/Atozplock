@@ -74,11 +74,22 @@ header a:hover{
     font-weight:bold;
 }
 
+/*body*/
+
+#body .container{
+    color:saddlebrown;
+    float:none;
+    text-align: center;
+}
+
+
+
+
 /*showcase*/
 
 #showcase{
-    min-height:150px;
-    background:url('../img/cream_logo.jpg') no-repeat -450px -250px ;
+    min-height:200px;
+    background:url('../img/cream_logo.jpg') no-repeat -450px -250px;
     border-bottom:pink 10px solid;
     border-top: pink 10px solid;
     background-color: burlywood;
