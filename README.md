@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atozplock
 - 👀 I’m interested in me
 - 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on romeo jr
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me with mmy hands
 
 <!---
